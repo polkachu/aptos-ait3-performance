@@ -1,4 +1,4 @@
-# Polkachu AIT3 Performance Daily Dashboard View
+# Polkachu Aptos AIT3 Performance Daily Dashboard
 
 ### 2022-09-08
 
